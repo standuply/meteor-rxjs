@@ -9,7 +9,7 @@
     "es6-shim": "0.35.3",
     "meteor-rxjs": "file:..",
     "rxjs": "5.4.3",
-    "zone.js": "0.8.17"
+    "zone.js": "0.8.18"
   },
   "devDependencies": {
     "linklocal": "2.8.1"

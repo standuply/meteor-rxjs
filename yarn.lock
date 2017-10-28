@@ -12,11 +12,12 @@
   dependencies:
     "@types/node" "*"
 
-"@types/meteor@1.4.6":
-  version "1.4.6"
-  resolved "https://registry.yarnpkg.com/@types/meteor/-/meteor-1.4.6.tgz#eca1b7f8933fdaf8fc77a3e0c426bb6889fb1652"
+"@types/meteor@1.4.12":
+  version "1.4.12"
+  resolved "https://registry.yarnpkg.com/@types/meteor/-/meteor-1.4.12.tgz#5c1d4e08fddf9d141cc393d46f4a6fd397b86d27"
   dependencies:
     "@types/connect" "*"
+    "@types/underscore" "*"
 
 "@types/mocha@2.2.43":
   version "2.2.43"
@@ -25,6 +26,10 @@
 "@types/node@*":
   version "8.0.28"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.28.tgz#86206716f8d9251cf41692e384264cbd7058ad60"
+
+"@types/underscore@*":
+  version "1.8.4"
+  resolved "https://registry.yarnpkg.com/@types/underscore/-/underscore-1.8.4.tgz#187da45fe08986d3be50f1aa58fd3d45726bf336"
 
 "@types/underscore@1.8.3":
   version "1.8.3"
